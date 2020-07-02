@@ -1,0 +1,11 @@
+{
+  "name": "weiboauto",
+  "version": "1.0.0",
+  "description": "微博自动评论工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhuchengcong",
+  "license": "ISC"
+}
