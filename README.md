@@ -5,6 +5,8 @@
 #### Build Setup
 
 ``` bash
+#运行需要nodejs环境，版本 12.0 以上， 
+
 # install dependencies
 npm install  
 
