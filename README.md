@@ -6,7 +6,7 @@
 
 src目录下面是electron前端代码，暂未完善， 
 
-examples\index.js        api 示例，有注释
+examples\index.js        微博实例api 示例，有注释
 
 lib\weibo_crawler.js  热搜话题下自动评论，有注释
 
