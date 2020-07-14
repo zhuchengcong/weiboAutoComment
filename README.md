@@ -8,7 +8,7 @@ src目录下面是electron前端代码，暂未完善，
 
 examples\index.js        微博实例api 示例，有注释
 
-lib\weibo_crawler.js  热搜话题下自动评论，有注释
+lib\utils\weibo_crawler.js  热搜话题下自动评论，有注释
 
 > weibo automment
 
@@ -36,8 +36,8 @@ npm run lint
 #微博评论代码在  examples\index.js
 有注释， 直接node examples\index.js  运行
 
-#批量评论代码在  lib\weibo_crawler.js
-有注释，直接 node lib\weibo_crawler.js 运行
+#批量评论代码在  lib\utils\weibo_crawler.js
+有注释，直接 node lib\utils\weibo_crawler.js 运行
 
 ```
 
