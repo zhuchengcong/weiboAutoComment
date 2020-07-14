@@ -24,17 +24,6 @@ const weibo = new Weibo({
     }
 })
 
-weibo.api('statuses/weibotop',{
-    status:'1',
-}).then(data => {
-    let j = request.jar();
-    request.get({ url: data,jar:j }, function (error, reponse, body) {
-         console.log('body',body);
-      });
-    
-}).catch(e => {
-    console.log('e', e);
-})   
 
 
 /*
