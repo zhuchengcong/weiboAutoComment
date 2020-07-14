@@ -21,8 +21,12 @@ npm test
 # lint all JS/Vue component files in `src/`
 npm run lint
 
+#微博评论代码在  examples\index.js
+有注释， 直接node examples\index.js  运行
+
+#批量评论代码在  lib\weibo_crawler.js
+有注释，直接 node lib\weibo_crawler.js 运行
+
 ```
-微博评论代码在  examples\index.js   有注释， 直接node examples\index.js  运行
----
-批量评论代码在  lib\weibo_crawler.js   有注释，直接 node lib\weibo_crawler.js 运行
+
 This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
