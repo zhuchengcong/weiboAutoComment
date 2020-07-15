@@ -1,8 +1,9 @@
-# autocombyvu
+# WeiboAutoCommentTool
 
 微博自动评论工具。
 *警告：谨慎使用，仅供学习，不要做违法乱纪的事情。*
 
+## 使用方法
 
 运行需要nodejs环境 
 
