@@ -38,11 +38,13 @@ npm test
 # lint all JS/Vue component files in `src/`
 npm run lint
 
-#微博评论代码在  examples\index.js
-有注释， 直接node examples\index.js  运行
+# 微博评论代码在  examples\index.js
+# 有注释， 直接node examples\index.js  运行
+node examples\index.js
 
-#批量评论代码在  lib\utils\weibo_crawler.js
-有注释，直接 node lib\utils\weibo_crawler.js 运行
+# 批量评论代码在  lib\utils\weibo_crawler.js
+# 有注释，直接 node lib\utils\weibo_crawler.js 运行
+node lib\utils\weibo_crawler.js
 
 ```
 
